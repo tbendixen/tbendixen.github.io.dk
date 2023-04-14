@@ -1,2 +1,1 @@
-# tbendixen.github.io.dk
-Personal website-DK
+# tbendixen.github.io
