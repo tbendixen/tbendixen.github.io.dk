@@ -12,7 +12,7 @@ owner: Theiss Bendixen
 first_published: 2023
 email: tb@theissbendixen.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://theissbendixen.com" # the base hostname & protocol for your site
+url: "http://theissbendixen.dk" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/Theiss_Bendixen
   linkedin-square: https://www.linkedin.com/in/theiss-bendixen-81015462/
